@@ -556,17 +556,3 @@ kubectl get pods -n cert-manager
 
 ---
 
-# 📌 Best Practices
-
-✅ Use namespaces  
-✅ Use readiness/liveness probes  
-✅ Use autoscaling  
-✅ Enable HTTPS  
-✅ Use monitoring & alerts  
-✅ Use persistent storage  
-✅ Use private container registry  
-✅ Enable auto-upgrade & auto-repair  
-✅ Set resource requests & limits  
-✅ Use production-grade ingress
-
----
