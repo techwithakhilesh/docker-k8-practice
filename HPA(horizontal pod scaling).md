@@ -13,7 +13,7 @@ This guide explains how to:
 
 # 📚 What is HPA?
 
-:contentReference[oaicite:0]{index=0} Horizontal Pod Autoscaler (HPA) automatically scales pods based on:
+: Horizontal Pod Autoscaler (HPA) automatically scales pods based on:
 
 - CPU usage
 - Memory usage
